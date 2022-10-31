@@ -1,2 +1,2 @@
-# My-own-code-review
-A code reviews of my previous code after upgrading my skills to address best practices, use of semantic tags, CSS selectors, and CSS box model.
+# Microverse-Project_1
+This is a project completed by Cletus and George as a requirement for the microverse application process
